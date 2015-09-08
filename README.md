@@ -31,6 +31,14 @@ CSS, or almost any JS beyond some very simple jQuery stuff. So you're not
 going to have to hack away a lot of bloat-ware just to get to the three
 lines you actually need.
 
+## E-Receipts
+
+Also supplied in this repo are some example anonymized e-receipts that you
+can play with as well as the UPC frequency counts. We are excited to see 
+what you can come up with from this data.
+
+## Good luck!
+
 Best of luck, friends. Stay frosty! If you need help you can
 [contact us](https://developer.walmartlabs.com/contact) or
 hit us up on [the boards](https://developer.walmartlabs.com/forum).
