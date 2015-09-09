@@ -20,11 +20,12 @@ The APIs themselves are [documented on the WalmartLabs developer API site](https
 The usual suspects.
 
 Now, if you are all like, "meh, I'd be cool with a starter project", then
-we have three to suit:
+we have four to suit:
 
 * [Starting with Express](https://github.com/walmartlabs/express-example)
 * [Starting with HAPI](https://github.com/walmartlabs/hapi-example)
 * [Starting with Cordova](https://github.com/walmartlabs/cordova-starter-kit)
+* [Starting with React-Native](https://github.com/walmartlabs/react-native-starter)
 
 All of these examples are designed to be *bare bones*. We don't give you
 CSS, or almost any JS beyond some very simple jQuery stuff. So you're not
@@ -34,7 +35,7 @@ lines you actually need.
 ## E-Receipts
 
 Also supplied in this repo are some example anonymized e-receipts that you
-can play with as well as the UPC frequency counts. We are excited to see 
+can play with as well as the UPC frequency counts. We are excited to see
 what you can come up with from this data.
 
 ## Good luck!
