@@ -6,6 +6,11 @@ Javascript or Node. Cool. Here is what you need to do.
 First, you need to [get an API key](https://developer.walmartlabs.com/member)
 if you don't have one already.
 
+If you are at TechCrunch be sure to check the TechCrunch
+plan box as you request the key:
+
+![TechCrunch key](./techcrunch.png)
+
 With that in hand you are all ready to dig in. If you're like
 all, "just give me the API I got this", then just:
 
