@@ -11,6 +11,9 @@ plan box as you request the key:
 
 ![TechCrunch key](./techcrunch.png)
 
+If you don't see the registration email in a minute or two check
+your Spam folder.
+
 With that in hand you are all ready to dig in. If you're like
 all, "just give me the API I got this", then just:
 
